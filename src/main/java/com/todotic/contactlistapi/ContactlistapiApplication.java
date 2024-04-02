@@ -30,5 +30,5 @@ public class ContactlistapiApplication {
 				);
 				contactRepository.saveAll(contacts);
 		};
-	};
+	}
 }
